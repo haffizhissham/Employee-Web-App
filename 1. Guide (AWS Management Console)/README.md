@@ -55,6 +55,11 @@ _________________
     ![Instance (Pending)](<Pictures/EC2/6. Instance Status.png>)
     ![Instance (Complete)](<Pictures/EC2/7. Instance Status (Complete).png>)
 
+13. Access deployed EC2 instance via public IP address/DNS (port tcp/80) stated on Management Console
+    ![Public IP](<Pictures/EC2/9. Public IP.png>)
+    ![Web (IP)](<Pictures/EC2/10. Web (IP).png>)
+    ![Web (DNS)](<Pictures/EC2/10. Web (DNS).png>)
+
 
 _________________
 
