@@ -45,7 +45,10 @@ Resource Deployment using AWS Management Console (GUI)
     ```
     ![User Data Script](<Pictures/5. User Data.png>)
 
-11. Wait for instance to complete deployment, **Instance Status** & **Status Check**
+11. Click launch instance
+    <br>![Launch](<Pictures/8. Launch Instance.png>)
+
+12. Wait for instance to complete deployment, **Instance Status** & **Status Check**
     ![Instance (Pending)](<Pictures/6. Instance Status.png>)
     ![Instance (Complete)](<Pictures/7. Instance Status (Complete).png>)
 
