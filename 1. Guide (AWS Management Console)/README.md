@@ -1,5 +1,5 @@
 # Deployment Guide
-> AWS Management COnsole (GUI)
+Resource Deployment using AWS Management Console (GUI)
 
 1. Login into Management Console
 2. Go to EC2 page 
