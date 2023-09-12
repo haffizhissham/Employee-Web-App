@@ -70,4 +70,10 @@ _________________
 _________________
 
 #### Misc.
+
+##### SSH with EC2 Instance
+`ssh -i /path/key-pair-name.pem ec2-user@Public IP`
+![Alt text](<Pictures/Misc./1. SSH.png>)
+
+Reference : [Connect to your Linux instance using an SSH client](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-linux-inst-ssh.html)
  
