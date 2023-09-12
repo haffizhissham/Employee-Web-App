@@ -5,22 +5,19 @@
 2. Go to EC2 page 
 3. Click **Launch Instance**  
     <img src="Pictures/1. Launch Instance.png" width="350" height="350" alt="Launch Instance">
-<br>
-<br>
+
 4. Write down EC2 name
 5. Application & OS Image (AMI)  
    i. Amazon Linux & Amazon Linux 2023 AMI (**Free Tier Eligible**)  
    ii. Architecture : 64-bit (x86)  
    <img src="Pictures/2. AMI.png" width="350" height="350" alt="AMI">
-<br>
-<br>
+
 6. Instance type
    <br>i. t2.micro (**Free Tier Eligible**)  
 7. Create key pair for login (if neccesary) <br>
     ![Key Pair](<Pictures/3. Key Pair.png>)
     > EC2 instance login via *ssh*, etc, or select **proceed without a key pair**
-<br>
-<br>
+
 8. Network settings <br>
    ![Network settings](<Pictures/4. Network settings.png>) <br>
    i. Default **VPC** & **Subnet** <br>
