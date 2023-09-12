@@ -1,6 +1,9 @@
 # Deployment Guide
 Resource Deployment using AWS Management Console (GUI)
 
+_________________
+
+### 1) EC2
 1. Login into Management Console
 2. Go to EC2 page 
 3. Click **Launch Instance**  
@@ -53,3 +56,12 @@ Resource Deployment using AWS Management Console (GUI)
     ![Instance (Complete)](<Pictures/7. Instance Status (Complete).png>)
 
 
+_________________
+
+### 2) S3 Bucket
+1. Logi
+
+_________________
+
+### 3) Dynamo DB
+1. Logi
