@@ -5,4 +5,6 @@ Source of code is from [AWS Technical Essentials](https://explore.skillbuilder.a
 
 Two methods for deployment:
 1. [Deployment using AWS Management Console (GUI)](https://github.com/haffizhissham/Employee-Web-App/tree/main/1.%20Guide%20(AWS%20Management%20Console))
-2. [Deployment using AWS CDK (CLI)](https://github.com/haffizhissham/Employee-Web-App/tree/main/2.%20Guide%20(CDK))
+    i. Set up role
+   ii. 
+3. [Deployment using AWS CDK (CLI)](https://github.com/haffizhissham/Employee-Web-App/tree/main/2.%20Guide%20(CDK))
